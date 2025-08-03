@@ -10,6 +10,9 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
     <PackageReference Include="MSTest" Version="3.10.0" />
+    <PackageReference Include="Reqnroll" Version="2.4.1" />
+    <PackageReference Include="Reqnroll.MsTest" Version="2.4.1" />
+    <PackageReference Include="Reqnroll.Tools.MsBuild.Generation" Version="2.4.1" />
   </ItemGroup>
 
   <ItemGroup>
